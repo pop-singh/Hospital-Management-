@@ -1163,7 +1163,7 @@ void mainscreen()
 
     }
     gotoxy(30,4);textcolor(3);
-    cprintf("ALKA HOSPITAL");
+    cprintf("GLA HOSPITAL");
     gotoxy(27,6);textcolor(6);
     cprintf("Jawalakhel, Lalitpur");
     gotoxy(27,7); textcolor(15);
